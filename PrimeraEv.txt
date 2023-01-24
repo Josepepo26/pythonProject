@@ -1,0 +1,19 @@
+Nombre alumno: Jose
+Notas:
+ -Matemaricas: 5
+ -Lengua: 4
+ -Fisica y quimica: 7
+ -Ingles: 8
+ -Biologia: 9
+-------------------------------------------------------------------------
+Asignaturas aprobadas: 
+ -Matemaricas
+ -Fisica y quimica
+ -Ingles
+ -Biologia
+-------------------------------------------------------------------------
+Asignaturas suspendidas: 
+ -Lengua
+-------------------------------------------------------------------------
+Nota maxima: 9
+Nota minima: 4
