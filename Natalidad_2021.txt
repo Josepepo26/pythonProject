@@ -1,0 +1,12 @@
+Andalucia 65650
+Aragón 9463
+Asturias 4785
+Cantabria 3285
+Ceuta 719
+Canarias 12732
+Cataluna 57634
+Extremadura 7247
+Galicia 14787
+Madrid 51366
+Melilla 933
+Navarra 5113
